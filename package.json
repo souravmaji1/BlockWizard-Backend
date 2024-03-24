@@ -1,7 +1,6 @@
 {
-  "name": "api-balance",
+  "name": "BlockWizard",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -23,5 +22,7 @@
     "nodemailer": "^6.9.7",
     "solc": "^0.8.23-fixed",
     "web3": "^4.2.2"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
